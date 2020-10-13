@@ -1,0 +1,41 @@
+I"ú<p><span class="project-used-item">Swift + SwiftUI</span>
+<span class="project-used-item">MVVM</span>
+<span class="project-used-item">Combine</span>
+<span class="project-used-item">REST API</span>
+<span class="project-used-item">iOS</span>
+<span class="project-used-item green-project">Open source<span class="ec-unlock"></span></span></p>
+
+<p>A complete and easy to use guide to Rome. With this app, you can find all the most interesting attractions of the city, which you can visit in complete freedom thanks to the audio and images.</p>
+
+<p>I developed this app with a colleague for a client and we used this stack:</p>
+
+<ul>
+  <li><strong>Mobile application</strong>: flutter &amp; dart</li>
+  <li><strong>Backend</strong>: python &amp; django, postgreSQL</li>
+  <li><strong>Website</strong>: python &amp; django + html/css + bootstrap</li>
+  <li><strong>Admin panel</strong>: reactJS</li>
+</ul>
+
+<p><br /></p>
+
+<p>What I did:</p>
+<ul>
+  <li><strong>Mobile application</strong>: Developed the mobile application for Android and iOS, it was coded with a clean architecture and I used BLoC for managing of the state.</li>
+  <li><strong>Admin panel</strong>: Front-end of the administration panel: login, forgot password and managing of the database content</li>
+</ul>
+
+<div style="text-align: center; margin-top: 30px;">
+<img src="../../img/featured/myroma/1.png" alt="screen1" width="200" />
+<img src="../../img/featured/myroma/2.png" alt="screen1" width="200" />
+<img src="../../img/featured/myroma/3.png" alt="screen1" width="200" />
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+<img src="../../img/featured/myroma/web.png" alt="web" />
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+<img src="../../img/featured/myroma/places.png" alt="web" />
+</div>
+
+:ET

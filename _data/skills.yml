@@ -1,0 +1,35 @@
+languages:
+  - item: Dart
+  - item: Swift
+  - item: Java
+  - item: Kotlin
+  - item: HTML/CSS
+  - item: SQL
+  - item: Javascript
+
+
+frameworks:
+  - item: Flutter
+  - item: SwiftUI
+  - item: Node
+  - item: React
+  - item: Bootstrap / Material UI
+  - item: jQuery
+  - item: Express.js
+
+tools:
+  - item: Git & Github
+  - item: Bash
+  - item: Postman
+  - item: CI/CD with bitrise / travis
+  - item: Sketch / Adobe XD
+
+design:
+  - item: Clean architecture
+  - item: MVVM
+  - item: Repository
+
+# design:
+#   - item: Sketch
+#   - item: Adobe XD
+#   - item: InVision

@@ -1,0 +1,45 @@
+- name: School news Telegram bot
+  url: https://github.com/riccardocalligaro/newszuccante-bot
+  description: Small bot that sends a new message when there is a new news from the school.
+  used:
+    - thing: js
+    - thing: node
+    - thing: lowdb
+    - thing: axios
+    - thing: Telegram API
+
+- name: iOS News Application
+  url: https://github.com/riccardocalligaro/newsapp
+  description: A simple news application with MVVM SwiftUI + Combine
+  used:
+    - thing: swift
+    - thing: combine
+    - thing: swiftui
+    - thing: rest api
+    - thing: mvvm
+
+- name: IMDB Top movies
+  url: https://github.com/riccardocalligaro/top-movies
+  description: Android application that shows the top 250 movies in IMDb
+  used:
+    - thing: android
+    - thing: kotlin
+    - thing: mvvm
+    - thing: flow
+    - thing: coroutines
+
+- name: Countdown app
+  url: https://github.com/riccardocalligaro/top-movies
+  description: A countdown app for Android developed in Kotlin
+  used:
+    - thing: android
+    - thing: kotlin
+    - thing: room
+
+- name: Weather UI
+  url: https://github.com/riccardocalligaro/weatherui
+  description: A minimalistic weather UI made in Flutter
+  used:
+    - thing: flutter
+    - thing: ui
+    - thing: design
