@@ -4,10 +4,52 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>https://riccardocalligaro.github.io/</loc>
-  <lastmod>2017-10-12T00:07:11+00:00</lastmod>
+  <lastmod>2020-10-13T20:41:55+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
+<url>
+  <loc>https://riccardocalligaro.github.io/registroelettronico-website/</loc>
+  <lastmod>2020-02-21T22:02:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/projects/school_register/</loc>
+  <lastmod>2020-10-13T20:41:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/projects/myroma/</loc>
+  <lastmod>2020-10-13T20:41:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/projects/zuccante-museum/</loc>
+  <lastmod>2020-10-13T20:41:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/projects/drivers-exam/</loc>
+  <lastmod>2020-10-13T20:41:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/projects/africa/</loc>
+  <lastmod>2020-10-13T20:41:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/registroelettronico-website/privacy-policy.html</loc>
+  <lastmod>2020-02-21T22:02:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://riccardocalligaro.github.io/registroelettronico-website/index.html</loc>
+  <lastmod>2020-02-21T22:02:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
