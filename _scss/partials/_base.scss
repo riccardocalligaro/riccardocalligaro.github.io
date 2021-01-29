@@ -274,6 +274,21 @@ strong {
   }
 }
 
+.play-btn {
+  display: inline-block;
+  margin: 16px 3px 3px 0;
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 7px;
+  border-radius: 3px;
+  color: $white;
+  background: $black;
+  &:first-of-type {
+    margin-left: 0;
+  }
+}
+
 .project-used-item {
   display: inline-block;
   margin: 3px 3px 3px 0;

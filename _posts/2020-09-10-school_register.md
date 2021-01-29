@@ -20,8 +20,13 @@ externalLink: false
 <span class="project-used-item">Internal SQL database</span>
 <span class="project-used-item">Agenda</span>
 <span class="project-used-item">iOS & Android</span>
-<span class="project-used-item yellow-project">Open source soon <span class="ec-unlock"></span></span>
-<span class="project-used-item green-project">In beta testing <span class="ec-hammer"></span></span>
+<span class="project-used-item green-project">Downloadable on the Play Store</span>
+
+<h1 align="center">
+    <a target='_blank' href='https://play.google.com/store/apps/details?id=com.riccardocalligaro.registro_elettronico&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="100px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+    <br>
+    <a target='_blank' href='https://github.com/riccardocalligaro/registro_elettronico'><img height="100px" alt='Get it on Google Play' src='../../img/github_button.png'/></a>
+</h1>
 
 ## Overview of the project
 
@@ -29,33 +34,29 @@ Flutter client for eletronic school register (Classeviva) management using clean
 
 - Simple and beautiful
 - Useful charts and stats about grades, absences, etc...
-- Dark & Light theme
-- Notifications when there is a new event (new grade, new event, etc..)
-- Data persistency
-- Final grades
+- Dark, light and black theme with custom colors <span class="ec-bulb"></span>
+- Multi-Account
 - Multi language support (Italian & English) and localizaiton
 
 
-<br>
+<img src="../../img/featured/registro/multiple-phones.png" alt="phons" />
 
 
 Main technologies and libraries:
 - 🔝 Flutter + Dart
-- 📡 Retrofit + Dio for API requests
+- 📡 Dio for API requests
 - 💡 BLoC for state management
 - 📚 Moor for data persistency
-- 💉 Injector for dependency injection
-- 🐠 Equatable for object comparison
-- 🔗 Dartz for functional programming (only last features)
+- 💉 GetIt for dependency injection
+- 🔗 Dartz for functional programming
 - ⚙️ Firebase + Crashlytics for analytics and tracking errors
 
 ## Screenshots
 
-<img src="../../img/featured/registro/multiple-phones.png" alt="phons" />
+<img src="../../img/featured/registro/multiple-screen.png">
+<img src="../../img/featured/registro/blueprint.png">
 
-<img src="https://i.imgur.com/j359Hse.jpg">
-
-<img src="https://i.imgur.com/34PxAn3.jpg" >
+<img src="../../img/featured/registro/single.png" alt="phons" />
 
 
 ## Developers:
@@ -68,3 +69,4 @@ Main technologies and libraries:
 - Samuele Zanaella
 - Andrea Nocco
 - Diego Caspi
+- Leone Bacciu

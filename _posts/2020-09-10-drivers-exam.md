@@ -18,7 +18,11 @@ externalLink: false
 <span class="project-used-item">Internal SQL database</span>
 <span class="project-used-item">iOS & Android</span>
 <span class="project-used-item red-project">Closed source <span class="ec-lock"></span></span>
-<span class="project-used-item green-project">In beta testing <span class="ec-hammer"></span></span>
+
+<h1 align="center">
+    <a href='https://play.google.com/store/apps/details?id=com.riccardocalligaro.esame_conducenti_veneto'><img height="100px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+</h1>
+
 
 Unofficial application for NCC car, motorcycle, and animal exam. With this application, you can practice the tests to get the NCC license. The NCC license enables you to drive vehicles for a rental service.
 

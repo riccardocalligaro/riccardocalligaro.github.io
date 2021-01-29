@@ -1,3 +1,20 @@
+- name: Websocket Game
+  url: https://github.com/riccardocalligaro/tpsit/tree/main/websocket_game
+  description: A multiplayer quiz game with a chatroom;
+  used:
+    - thing: dart + flutter
+    - thing: nodejs
+    - thing: socket.io
+    
+- name: Colors game
+  url: https://github.com/riccardocalligaro/tpsit/tree/main/gioco
+  description: A multiplayer quiz game with a chatroom;
+  used:
+    - thing: dart + flutter
+    - thing: custom painter
+    - thing: clean architecture
+    - thing: functional programming
+    
 - name: School news Telegram bot
   url: https://github.com/riccardocalligaro/newszuccante-bot
   description: Small bot that sends a new message when there is a new news from the school.
@@ -28,18 +45,18 @@
     - thing: flow
     - thing: coroutines
 
+- name: TCP Chat
+  url: https://github.com/riccardocalligaro/tpsit/tree/main/tcp_chat
+  description: A multiplayer quiz game with a chatroom;
+  used:
+    - thing: dart + flutter
+    - thing: nodejs
+
 - name: Countdown app
-  url: https://github.com/riccardocalligaro/top-movies
+  url: https://github.com/riccardocalligaro/countdownapp
   description: A countdown app for Android developed in Kotlin
   used:
     - thing: android
     - thing: kotlin
     - thing: room
 
-- name: Weather UI
-  url: https://github.com/riccardocalligaro/weatherui
-  description: A minimalistic weather UI made in Flutter
-  used:
-    - thing: flutter
-    - thing: ui
-    - thing: design

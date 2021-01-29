@@ -23,6 +23,11 @@ externalLink: false
 <span class="project-used-item green-project">Open source<span class="ec-unlock"></span></span>
 
 
+<h1 align="center">
+    <a target='_blank' href='https://github.com/Saerlig-Software-Development/museozuccante_client'><img height="100px" alt='Get it on Google Play' src='../../img/github_button.png'/></a>
+</h1>
+
+
 What I did:
 - **Mobile application**: Developed the mobile application for Android and iOS, it was coded with a clean architecture and I used BLoC for managing of the state.
 

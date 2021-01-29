@@ -1,20 +1,14 @@
 languages:
-  - item: Dart
   - item: Swift
-  - item: Java
-  - item: Kotlin
-  - item: HTML/CSS
-  - item: SQL
-  - item: Javascript
-
+  - item: Dart
+  - item: JS / TS
+  - item: Java /  Kotlin
 
 frameworks:
+  - item: UIKit / Swift UI
   - item: Flutter
-  - item: SwiftUI
-  - item: Node
-  - item: React
-  - item: Bootstrap / Material UI
-  - item: jQuery
+  - item: NodeJS
+  - item: React + Next
   - item: Express.js
 
 tools:
@@ -26,10 +20,5 @@ tools:
 
 design:
   - item: Clean architecture
-  - item: MVVM
+  - item: MVVM / MVC
   - item: Repository
-
-# design:
-#   - item: Sketch
-#   - item: Adobe XD
-#   - item: InVision
