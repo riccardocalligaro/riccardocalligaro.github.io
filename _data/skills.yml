@@ -19,6 +19,6 @@ tools:
   - item: Sketch / Adobe XD
 
 design:
-  - item: Clean architecture
+  - item: Clean Architecture
   - item: MVVM / MVC
   - item: Repository
