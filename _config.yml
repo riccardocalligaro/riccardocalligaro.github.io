@@ -1,9 +1,9 @@
 # Site settings
 name: Riccardo Calligaro
-title: Riccardo Calligaro | Mobile App Developer
-description:  Design-minded mobile app developer focused on building beautiful interfaces and experiences
+title: Riccardo Calligaro | full-stack developer
+description: full-stack developer focused on building beautiful interfaces and experiences
 url: https://riccardocalligaro.github.io/
-baseurl: ''
+baseurl: ""
 email: riccardocalligaro@gmail.com
 cover: https://riccardocalligaro.github.io/img/og.png
 logo: https://riccardocalligaro.github.io/img/emojis/phone.png
@@ -19,23 +19,21 @@ permalink: projects/:title/
 # Build settings
 markdown: kramdown
 
-
 exclude:
-  - 'Gemfile'
-  - 'Gemfile.lock'
-  - '*.gemspec'
-  - 'README.md'
-  - 'node_modules'
-  - 'build'
-  - 'gulpfile.js'
-  - 'package.json'
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
 
 keep_files:
-  - 'CNAME'
-  - '.git'
-  - '.gitignore'
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
 
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
-

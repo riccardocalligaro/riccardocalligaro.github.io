@@ -33,11 +33,11 @@ body {
     }
     .switch-wrapper {
       .sun {
-        background: url('../img/switch/sun-white.svg') no-repeat center;
+        background: url("../img/switch/sun-white.svg") no-repeat center;
         background-size: 100%;
       }
       .moon {
-        background: url('../img/switch/moon-white.svg') no-repeat center;
+        background: url("../img/switch/moon-white.svg") no-repeat center;
         background-size: 100%;
       }
     }
@@ -95,7 +95,7 @@ strong {
 
 .post {
   ul {
-    list-style: unset;    
+    list-style: unset;
     padding: revert;
   }
 }
@@ -136,11 +136,15 @@ strong {
       width: auto;
     }
   }
+  &__disclaimer {
+    font-size: 10px;
+    color: $dark-grey;
+  }
   &__content {
     font-weight: 300;
     font-size: 1rem;
     width: 100%;
-    max-width: 650px;
+    max-width: 850px;
     @include tablet {
       padding-top: 30px;
       padding-left: 50px;
@@ -162,7 +166,7 @@ strong {
         width: 100%;
         height: 1px;
         background: $black;
-        content: '';
+        content: "";
         opacity: 0;
         transition: height 0.3s, opacity 0.3s, transform 0.3s;
         transform: translateY(-5px);
@@ -191,8 +195,8 @@ strong {
     position: relative;
     bottom: 2px;
     margin-left: 15px;
-    content: '';
-    background: url('../img/arrow.png') no-repeat center;
+    content: "";
+    background: url("../img/arrow.png") no-repeat center;
     background-size: 100%;
     width: 15px;
     height: 15px;
@@ -205,7 +209,7 @@ strong {
 }
 
 .small {
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.85rem;
   display: inline-block;
   margin-top: 15px;
@@ -256,12 +260,10 @@ strong {
   transform: translateZ(0);
 }
 
-
-
 .read-btn {
   display: inline-block;
   margin: 16px 3px 3px 0;
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.75rem;
   font-weight: 700;
   padding: 4px 7px;
@@ -277,7 +279,7 @@ strong {
 .play-btn {
   display: inline-block;
   margin: 16px 3px 3px 0;
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.75rem;
   font-weight: 700;
   padding: 4px 7px;
@@ -292,13 +294,13 @@ strong {
 .apple-btn {
   display: inline-block;
   margin: 16px 3px 3px 0;
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.75rem;
   font-weight: 700;
   padding: 4px 7px;
   border-radius: 3px;
   color: $white;
-  background:$blue;
+  background: $blue;
   &:first-of-type {
     margin-left: 0;
   }
@@ -307,7 +309,7 @@ strong {
 .project-used-item {
   display: inline-block;
   margin: 3px 3px 3px 0;
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.75rem;
   font-weight: 700;
   padding: 2px 7px;

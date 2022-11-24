@@ -23,3 +23,34 @@
     }
   }
 }
+
+.worked-on {
+  justify-content: space-between;
+  margin-top: 8px;
+  @include weird-medium {
+    flex-wrap: wrap;
+  }
+
+  &__list {
+    margin-left: 35px;
+  }
+  &__category {
+    @include weird-medium {
+      width: 47%;
+      margin-right: 5px;
+      margin-bottom: 25px;
+    }
+    &__label {
+      font-weight: 700;
+      color: $black;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
+    &__item {
+      margin: 3px 0;
+      list-style-type: disc;
+
+      font-size: 0.9rem;
+    }
+  }
+}

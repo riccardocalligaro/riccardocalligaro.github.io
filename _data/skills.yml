@@ -1,20 +1,38 @@
-languages:
-  - item: Swift
-  - item: Dart
-  - item: JS / TS
-  - item: Java /  Kotlin
+frontend:
+  - item: TypeScript / js
+  - item: ReactJS / Vite / Next
+  - item: Redux
+  - item: ChakraUI / MUI
 
-frameworks:
-  - item: UIKit / Swift UI
-  - item: Flutter
+backend:
+  - item: Python (django / flask)
+  - item: C# (.NET)
   - item: NodeJS
-  - item: React + Next
-  - item: Express.js
+  - item: SQL / NoSQL
+
+mobile:
+  - item: iOS
+  - item: UIKit / SwiftUI
+  - item: Flutter (Dart)
+  - item: Flutter
+
+# languages:
+#   - item: TypeScript
+#   - item: Python
+#   - item: Swift
+#   - item: Dart
+
+# frameworks:
+#   - item: ReactJS / Vite / Next.js
+#   - item: UIKit / Swift UI
+#   - item: Flutter
+#   - item: NodeJS
+#   - item: Express.js
 
 tools:
-  - item: Git & Github
-  - item: Bash
-  - item: Postman
+  - item: docker
+  - item: linux / bash
+  - item: git / github
   - item: CI/CD with bitrise / travis
   - item: Sketch / Adobe XD
 
