@@ -1,20 +1,16 @@
 frontend:
-  - item: TypeScript / js
-  - item: ReactJS / Vite / Next
-  - item: Redux
-  - item: ChakraUI / MUI
-
-backend:
-  - item: Python (django / flask)
-  - item: C# (.NET)
-  - item: NodeJS
-  - item: SQL / NoSQL
+  - item: React & NextJS
+  - item: Typescript
 
 mobile:
-  - item: iOS
-  - item: UIKit / SwiftUI
-  - item: Flutter (Dart)
   - item: Flutter
+  - item: iOS native
+
+backend:
+  - item: C# with .NET
+  - item: NodeJS with Express
+  - item: Python with Django
+  - item: SQL / NoSQL
 
 # languages:
 #   - item: TypeScript
@@ -30,13 +26,13 @@ mobile:
 #   - item: Express.js
 
 tools:
-  - item: docker
-  - item: linux / bash
-  - item: git / github
-  - item: CI/CD with bitrise / travis
-  - item: Sketch / Adobe XD
+  - item: Docker
+  - item: Linux
+  - item: Git / Github
+  - item: CI/CD
+  - item: Figma
 
 design:
   - item: Clean Architecture
   - item: MVVM / MVC
-  - item: Repository
+  - item: Design patterns
